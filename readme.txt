@@ -1,1 +1,1 @@
-阿瑟东发多发点
+Creating a new branch is quick & simple.
